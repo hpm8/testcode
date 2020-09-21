@@ -1,12 +1,2 @@
-public class test{
-public static void main(String[] args){
-   int [] a ={1,2,3,4,5,6,7,15,20};
-int i,c;
-c = a.length;
-for(i=0;i<c;i++){
-if(a[i]%2==0){
-System.out.println(a[i]+" is even");
-}
-}
-}
-}
+The goal can be easily achieved by using the length unction which makes the program easy. The number in the array can be checked by taking the percentile. If the remainder is zero then it i a even number otherwise it is a odd number. The print function is used to print the number which passes the if condition. The numbers which go into the if loop are getting printed.
+
